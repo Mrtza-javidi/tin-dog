@@ -1,2 +1,3 @@
 # TinDog
-A Bootstrap based website 
+Just a Bootstrap based UI
+
